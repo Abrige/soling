@@ -1,5 +1,3 @@
-Repository Ufficiale di  
+Repository Ufficiale di Ingegneria del Sftware 24/25  
 
-Ingegneria del Sftware 24/25  
-
-Alessandroni Leonardo, Brizi Mattia, Profili Luca. 
+    Alessandroni Leonardo, Brizi Mattia, Profili Luca.  
