@@ -1,6 +1,7 @@
 Repository Ufficiale di Ingegneria del Sftware 24/25  
 
-Spazio UML  
+Vpp2 - Spazio UML  
+Main - Progetto Java    
 
 ~ Alessandroni Leonardo  
 ~ Brizi Mattia  
