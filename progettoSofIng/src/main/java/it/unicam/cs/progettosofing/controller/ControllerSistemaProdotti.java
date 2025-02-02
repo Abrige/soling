@@ -1,8 +1,8 @@
-package it.unicam.cs.porfiriluca.progettosofing.controller;
+package it.unicam.cs.progettosofing.controller;
 
-import it.unicam.cs.porfiriluca.progettosofing.model.business.Azienda;
-import it.unicam.cs.porfiriluca.progettosofing.model.entity.Prodotto;
-import it.unicam.cs.porfiriluca.progettosofing.model.service.SistemaProdotti;
+import it.unicam.cs.progettosofing.model.business.Azienda;
+import it.unicam.cs.progettosofing.model.entity.Prodotto;
+import it.unicam.cs.progettosofing.model.service.SistemaProdotti;
 
 import java.util.Collections;
 import java.util.List;

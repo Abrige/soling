@@ -1,4 +1,4 @@
-package it.unicam.cs.porfiriluca.progettosofing;
+package it.unicam.cs.progettosofing;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

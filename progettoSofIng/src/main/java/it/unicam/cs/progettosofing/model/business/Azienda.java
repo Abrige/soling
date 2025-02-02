@@ -1,6 +1,6 @@
-package it.unicam.cs.porfiriluca.progettosofing.model.business;
+package it.unicam.cs.progettosofing.model.business;
 
-import it.unicam.cs.porfiriluca.progettosofing.controller.ControllerSistemaProdotti;
+import it.unicam.cs.progettosofing.controller.ControllerSistemaProdotti;
 
 /**
  * Classe astratta che rappresenta una generica azienda all'interno del sistema.

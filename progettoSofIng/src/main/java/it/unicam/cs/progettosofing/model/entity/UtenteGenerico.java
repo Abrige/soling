@@ -1,4 +1,4 @@
-package it.unicam.cs.porfiriluca.progettosofing.model.entity;
+package it.unicam.cs.progettosofing.model.entity;
 
 public class UtenteGenerico {
     private String idSessione;

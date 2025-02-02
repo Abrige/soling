@@ -1,6 +1,8 @@
-package it.unicam.cs.porfiriluca.progettosofing.model.entity;
+package it.unicam.cs.progettosofing.model.entity;
 
-public class UtenteRegistrato {
+import it.unicam.cs.progettosofing.model.AccessoMarketplaceUtenteRegistrato;
+
+public class UtenteRegistrato implements AccessoMarketplaceUtenteRegistrato {
     private String id;
     private String nome;
     private String cognome;

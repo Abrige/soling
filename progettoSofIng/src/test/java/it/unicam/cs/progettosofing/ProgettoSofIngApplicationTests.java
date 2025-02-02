@@ -1,4 +1,4 @@
-package it.unicam.cs.porfiriluca.progettosofing;
+package it.unicam.cs.progettosofing;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

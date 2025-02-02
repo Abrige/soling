@@ -1,4 +1,4 @@
-package it.unicam.cs.porfiriluca.progettosofing.model;
+package it.unicam.cs.progettosofing.model;
 
 public interface AccessoMarketplaceUtenteGenerico {
 }

@@ -1,8 +1,8 @@
-package it.unicam.cs.porfiriluca.progettosofing.model.service;
+package it.unicam.cs.progettosofing.model.service;
 
-import it.unicam.cs.porfiriluca.progettosofing.exception.ProdottoException;
-import it.unicam.cs.porfiriluca.progettosofing.model.business.Azienda;
-import it.unicam.cs.porfiriluca.progettosofing.model.entity.Prodotto;
+import it.unicam.cs.progettosofing.exception.ProdottoException;
+import it.unicam.cs.progettosofing.model.business.Azienda;
+import it.unicam.cs.progettosofing.model.entity.Prodotto;
 
 import java.util.List;
 import java.util.Map;

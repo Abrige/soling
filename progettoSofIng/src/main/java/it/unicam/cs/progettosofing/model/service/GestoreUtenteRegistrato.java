@@ -1,7 +1,7 @@
-package it.unicam.cs.porfiriluca.progettosofing.model.service;
+package it.unicam.cs.progettosofing.model.service;
 
-import it.unicam.cs.porfiriluca.progettosofing.model.entity.UtenteRegistrato;
-import it.unicam.cs.porfiriluca.progettosofing.model.entity.UtenteRegistratoDTO;
+import it.unicam.cs.progettosofing.model.entity.UtenteRegistrato;
+import it.unicam.cs.progettosofing.model.entity.UtenteRegistratoDTO;
 
 public class GestoreUtenteRegistrato {
     private Piattaforma piattaforma;
